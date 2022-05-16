@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baldwin-Asg9-SP", "Baldwin-Asg9-SP.csproj", "{B2CF6F2F-CD5D-4B47-8128-5DF05D1B7200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2CF6F2F-CD5D-4B47-8128-5DF05D1B7200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2CF6F2F-CD5D-4B47-8128-5DF05D1B7200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2CF6F2F-CD5D-4B47-8128-5DF05D1B7200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2CF6F2F-CD5D-4B47-8128-5DF05D1B7200}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB782EA1-3B55-4761-90B2-7B7B7E2A2100}
+	EndGlobalSection
+EndGlobal
